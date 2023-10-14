@@ -62,7 +62,7 @@ I am a Senior Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 <!-- BLOG-POST-LIST:START -->
 - [Setup Your Own iTerm2 - Install iTerm2 and Configure Its Color Presets](https://en.poloxue.com/posts/2023-10-11-setup-your-own-iterm2/)
-- [Autostart Tmux in iTerm2](https://en.poloxue.com/posts/2023-09-15-autostart-tmux-in-iterm2/)
+- [Autostart Tmux in iTerm2 - Improve Your Productivity](https://en.poloxue.com/posts/2023-09-15-autostart-tmux-in-iterm2/)
 <!-- BLOG-POST-LIST:END -->
 
 
