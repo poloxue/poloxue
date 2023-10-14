@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<image src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" />
+<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" />
 
 **poloxue/poloxue** is a ✨ Senior backend Engineer ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
