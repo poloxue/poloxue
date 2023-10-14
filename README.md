@@ -51,3 +51,5 @@ I am a Senior Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 </div>
 
 ### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=poloxue)](https://git.io/streak-stats)
