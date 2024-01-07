@@ -61,6 +61,7 @@ I am a Senior Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [IDE for Go Development: Exploring Features and Popular Options](https://en.poloxue.com/posts/2024-01-07-why-we-should-use-golang-ide/)
 - [Moving Basic Usage: Installation and Video Manipulation](https://en.poloxue.com/posts/2024-01-06-moving-basic-usage/)
 - [Setup Your Own iTerm2 - Install iTerm2 and Configure Its Color Presets](https://en.poloxue.com/posts/2023-10-11-setup-your-own-iterm2/)
 - [Autostart Tmux in iTerm2 - Improve Your Productivity](https://en.poloxue.com/posts/2023-09-15-autostart-tmux-in-iterm2/)
