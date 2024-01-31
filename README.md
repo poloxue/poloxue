@@ -61,10 +61,7 @@ I am a Senior Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Go Developer&#39;s Guide to HTTP File Uploads using net/http Package](https://en.poloxue.com/posts/2019-12-10-golang-http-upload-file/)
-- [How to Effectively Retrieve Go Variable Types? Exploring Multiple Methods](https://en.poloxue.com/posts/2024-01-22-get-the-type-of-object-in-golang/)
-- [From Fatal Errors to sync.Map: Concurrency Strategies for Maps in Go.](https://en.poloxue.com/posts/2024-01-21-fatal-error-in-concurrent-accessing-map/)
-- [Exploring High-Efficiency int to string Conversion Strategies and Source Code in Go](https://en.poloxue.com/posts/2024-01-20-int-to-string-in-golang/)
+- [Moviepy Basic Usage: Installation and Video Manipulation](https://en.poloxue.com/posts/2024-01-06-moving-basic-usage/)
 <!-- BLOG-POST-LIST:END -->
 
 
